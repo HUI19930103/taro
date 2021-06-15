@@ -37,7 +37,7 @@ import TabItem from '@theme/TabItem';
 <TabItem value="React">
 
 ```tsx
-class App extends Components {
+class App extends Component {
   state = {
     placeholder: '来，输入隔壁的名字试试...'
   }
